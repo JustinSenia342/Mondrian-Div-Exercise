@@ -1,112 +1,111 @@
-	
-		div {
-			padding: 0px;
-			border: 5px solid black;
-			margin: 0px;
-			}
+div {
+	padding: 0px;
+	border: 5px solid black;
+	margin: 0px;
+	}
 
 
-		#box_1 {
-			position: relative;
-			width: 100px;
-			height: 300px;
-			left: -5px;
-			top: -5px;
-			background: yellow;
-			}
+#box_1 {
+	position: relative;
+	width: 100px;
+	height: 300px;
+	left: -5px;
+	top: -5px;
+	background: yellow;
+	}
 
-		#box_2 {
-			position: relative;
-			width: 300px;
-			height: 100px;
-			left: 100px;
-			top: -5px;
-			background: white;
-			}
+#box_2 {
+	position: relative;
+	width: 300px;
+	height: 100px;
+	left: 100px;
+	top: -5px;
+	background: white;
+	}
 
-		#box_3 {
-			position: relative;
-			width: 200px;
-			height: 100px;
-			left: 300px;
-			top: -5px;
-			background: lightgrey;
-			}
+#box_3 {
+	position: relative;
+	width: 200px;
+	height: 100px;
+	left: 300px;
+	top: -5px;
+	background: lightgrey;
+	}
 
-		#box_4 {
-			position: relative;
-			width: 100px;
-			height: 100px;
-			left: 100px;
-			top: -10px;
-			background: red;
-			}
+#box_4 {
+	position: relative;
+	width: 100px;
+	height: 100px;
+	left: 100px;
+	top: -10px;
+	background: red;
+	}
 
-		#box_5 {
-			position: relative;
-			width: 400px;
-			height: 600px;
-			left: 100px;
-			top: -5px;
-			background: blue;
-			}
+#box_5 {
+	position: relative;
+	width: 400px;
+	height: 600px;
+	left: 100px;
+	top: -5px;
+	background: blue;
+	}
 
-		#box_6 {
-			position: relative;
-			width: 100px;
-			height: 500px;
-			left: 100px;
-			top: -15px;
-			background: white;
-			}
+#box_6 {
+	position: relative;
+	width: 100px;
+	height: 500px;
+	left: 100px;
+	top: -15px;
+	background: white;
+	}
 
-		#box_7 {
-			position: relative;
-			width: 100px;
-			height: 300px;
-			left: -5px;
-			top:-10px;
-			background: red;
-			}
+#box_7 {
+	position: relative;
+	width: 100px;
+	height: 300px;
+	left: -5px;
+	top:-10px;
+	background: red;
+	}
 
-		#box_8 {
-			position: relative;
-			width: 100px;
-			height: 200px;
-			left: -5px;
-			top: -15px;
-			background: lightgrey;
-			}
+#box_8 {
+	position: relative;
+	width: 100px;
+	height: 200px;
+	left: -5px;
+	top: -15px;
+	background: lightgrey;
+	}
 
-		#box_9 {
-			position: relative;
-			width: 200px;
-			height: 100px;
-			left: 100px;
-			top: 95px;
-			background: yellow;
-			}
+#box_9 {
+	position: relative;
+	width: 200px;
+	height: 100px;
+	left: 100px;
+	top: 95px;
+	background: yellow;
+	}
 
-		#box_10 {
-			position: relative;
-			width: 100px;
-			height: 100px;
-			left: 200px;
-			top: -5px;
-			background: red;
-			}
+#box_10 {
+	position: relative;
+	width: 100px;
+	height: 100px;
+	left: 200px;
+	top: -5px;
+	background: red;
+	}
 
-		#box_11 {
-			position: relative;
-			width: 200px;
-			height: 100px;
-			left: 95px;
-			top: -5px;
-			background: white;
-			}
+#box_11 {
+	position: relative;
+	width: 200px;
+	height: 100px;
+	left: 95px;
+	top: -5px;
+	background: white;
+	}
 
-		#container {
-			position: relative;
-			width: 610px;
-			height: 810px;
-			}
+#container {
+	position: relative;
+	width: 610px;
+	height: 810px;
+	}
